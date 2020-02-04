@@ -1,0 +1,42 @@
+- Find a way to harvest spider silk/ figure out what makes it so strong and ductile and emulate it.
+- restaurant with touch screen tables to order, and the bus boys bring out the food as you order. Restaurant that has specials that are really cheap by bulk buying food. Have people buy a plate in advance and get a discount if lots of people buy th plate. Bring in a guest chef that's really good for that.
+- Hole in the wall ramen/ fast food ramen. Powerful flavors.
+- quad copter that runs on hydrogen.
+- quad copter autonomous flight.
+- an app that analyzes sleep habits to wake you up and optimize restfulness. Includes analysis of time awake vs need for sleep, REM cycle analysis, recommendations for curfue and total sleep time, etc.
+- todo list that helps plan out when and how to do things.
+- program that you can feed a picture of a girl and it tell you her bra size
+- news Network/ website that is objective. Everything is sighted, maybe some analysis (these could be concidered opinion pieces). Historical, worldwide.
+- diamonds in space
+- ads mixed with in app/ digital currency to buy real content you can save to your phone. High quality, people artists are getting paid.
+- centralized chat application
+- future, digital library. Huge knowledge centers and creative production, expression, and consumption
+- find a way to harvest truffles
+- baby vr, record a baby and room in 3d and rerender to be bale to relive it's moments
+- robot for cleaning dishes to reduce water usage
+- make a surf board that doesn't look like a seal from underneath to prevent shark attacks
+- have apps that make it touch and go, easy for old people who don't want things to be so modular. Present features, keep predictable.
+-massive website that hold repos of school work. Can be done with schools to allow students to look at other students work, but also allow the school to check for plaigerism
+-chatrooms built for collaboration
+-easy tapping and configuration of beer keg and pouring
+-tapeworm apocalypse
+-app that you can hire a chef to come cook in your house
+-clip on shoe skates. Pump action? Wieghted shift for break?
+-computer background app that balances audio sources based on preference and what is coming through at the time. If music is playing, and somoen says something on discord , the music will dim. If there are multiple voice apps, they can split and mix into different stereo positions.
+-ironicly named spa products
+-personal chef app/ delivery
+-remarkable digital notebook, but in color. Wifi and stream ability functionality, live collaboration. LCD technology for Color?
+-pocket scloops
+-jacket with Hood: hood has different folds of different fabric types that allow it to expand for different functional senarios. Spandex fold near neck to be pulled up on face as a windbreaker. Canvas flap that folds into and out of hood to provide a visor for rain
+-news outlet that is just fake news. Just straight bullshit tabloid ass nonsense.
+-hydrogen (maybe / electric) motorcycle. Also, Wankel engine motorcycle
+-high end fashion with function
+-high function clothing with customizable design. Swappable parts for specified functionality/ look. Fresh. All kinds of styles.
+-lenses that tint to different colors to protect eyes from harmful light sources. Tint yellow to protect from blue light. Tint darker to protect from sunlight.
+-services that specialize in low bandwidth, low resource internet.
+-e-cigarette batteries that show you their percentage so that they don't fully discharge to converse recharge ability
+- share calendars
+-cocktail game, many different colored umbrellas represent something to do (different each color), big cocktail cup to drink from
+-a economy/civ building game, mobile, MMO style, clan/corporation collaboration type. Build different things on planets and come together to rule the world. Small, free game would revolve mostly about being the small manufacturer, while playing as company owners would require more time and possibly payment.
+-pube trimming for guys (like girls wax)
+-six thinking hats app, 

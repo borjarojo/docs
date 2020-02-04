@@ -1,0 +1,242 @@
+* Todo
+** Tasks
+*** Orginize media by topic. Maybe figure out way to link a section of a Org doc to another.
+*** Dry Clean Suits
+*** Things to Buy
+**** Washable clothing bags for sorting optimization of laundry
+*** Passports
+**** Spanish
+**** Argentine
+*** Pay off debts
+**** Parents
+***** Ikea furniture - $3,000
+***** Lenovo yogabook - $300
+***** 2 Months rent and security deposit - $2,775
+***** Moving Costs - $500
+***** Pixel 3a - $400
+*** Pull yourself off of Google's ecosystem, and anything else that might not be opensource
+*** Read and organize ideas
+*** Look through all past drives and organize
+**** Highschool external drive
+**** Github college drive
+**** Post-college flash drive
+** Goals
+*** AI Micromasters
+**** Robotics
+**** AI
+**** Machine Learning
+**** Graphics
+*** Places to Travel
+**** Iceland
+**** Belgium
+***** Brugge
+**** Portugal
+***** Ponta Delgada
+** Figure out what you want to do
+*** Me
+**** Physical
+***** Muscle definition
+***** High cardio
+****** Half marathon at speed
+****** swimming
+***** Stand up working
+***** MinMax Sleep
+***** Flexibility
+**** Mental
+***** Dominate lack of motivation
+***** Increase the ability to work on other projects
+***** Increase focus during all work hours
+***** Get projects done
+***** figuring smaller project to get done, too, or segmenting project to make them easier to do
+***** Find a therapist, maybe? You don't seem to be making a ton of progress on your self-improvement lately, or at least are falling into bad old habits.
+**** Emotional
+***** Get in touch with yourself I guess. You've done a lot of reflection and reaction but take some time to try and feel deeper reasons for everything.
+*** Others
+**** Family
+***** Reconnect with Fran. It's getting close to a decade since you were close.
+***** Build relationship more with Vicky. You've done some stuff to support her but she doesn't really come to you in general for regular shit. She might not want to bother us, but the fact that she thinks it would  be a bother is the crux of the problem.
+**** S.O.
+**** Friends
+**** Work
+*** World
+**** Communities of interests
+** Make a plan
+*** Physical
+**** Look up science on muscle building.
+***** What is good muscles building? What does might that look like for a certain individual and what might that look like for me?
+***** How you get it to grow
+***** if there are intermediary states
+***** How recovery works
+***** What happens if you stop working out
+***** What happens if you change your work out routine
+***** What is the nutrition you need
+***** What are the different types of movements, holds, intensity, explosiveness, etc and the effects that each have. Think about what happens when you mix them
+***** What are the effects of muscles building when you are older? Is there a sweet spot that wants to be hit?
+**** Cardio
+***** What is good cardio?
+***** How much cardio do you want?
+** Transfer relevant google keep ideas here to organize and make a plan
+   The important thing about this is compile what you've collected. You've been
+   diligent about keeping ideas that you've thought about, but you haven't
+   really executed on any of them. 
+   There is something to be said about a side effect this has had. Maybe this
+   kind of diligence has sort of led you to feel like you're on your way to
+   getting stuff done. It's a first step, sure, but not close to even getting
+   past the conclusions a goal being acheived.
+* Org Mode stuff to learn
+** Check to see if there is a way to set up reseting todo lists. This way you can set up habitual todo stuff that you can refer to and check when/ if they need to get done. Laundry is an example of one such thing.
+* Projects
+** Dating app
+** Modernization of healthcare industry
+** Dynamic profiles
+** Calendar and goal setting with AI to help accomplish tasks
+** Highly Interactive, dynamic, customizable media
+** Studio/tool to help build this media
+** Newsfeed + 1
+** Business linking by location/ partnerships / system to allow users to interact with business entities
+** Linkage with digital entities to provide ad-cents, either by direct creation of media by companies, or by individuals advertising for them, or by individuals linking to them
+** Smart house/ life, in that everything you do can be tracked in related to allow you to be able to the most informed about your life and make dicisions based upon that
+* Learn
+** Course Websites
+*** EdX
+*** Coursera
+*** Google Digital Garage
+** Ride a motorcycle
+** To kiteboard
+** Math
+*** Calculus
+*** Linear Algebra
+*** Probability
+*** Statistics
+** Comp Sci Topics
+*** Programming languages
+**** https://medium.com/web-development-zone/a-complete-list-of-computer-programming-languages-1d8bc5a891f
+**** https://i.redd.it/e4tql8q4esc31.jpg
+**** Rust
+**** Solidity
+**** Go, and it's library
+**** Haskell
+**** CUDA? I guess it's more like an API
+**** Python, or at least the modules that you can use with it
+**** C++ Boost
+**** Javascript?
+**** Java refresh?
+**** Haxe
+**** Swift
+**** C
+**** C#
+**** F#
+*** Programming paradigms
+**** Imperical
+**** OOP
+**** Generic
+**** Functional
+*** Image processing
+*** AI
+*** Machine Learning
+**** Old school models
+**** Deep learning
+*** Data science
+*** Cryptolgy
+*** Security
+*** Advanced algorithm building
+*** Advanced data structures
+*** Networking
+*** Operating systems
+** Epidemiology
+** Languages & Culture
+   Listenng
+   Reading
+   Speaking
+   Writing
+*** Spanish
+*** Japansese
+** Technology
+*** Markdown, as in .md file types
+*** CMake
+*** Git
+*** Bash Scripting
+*** CLang toolchain
+*** IFTTTT
+*** Blockhain
+*** Blockcerts
+*** Hyperledger
+*** API Building, Maybne research different API types?
+**** REST
+**** Webhooks
+*** C++ Unit testing
+**** Cppunit
+**** Google test
+**** Catch
+**** Boost.test 
+*** Ubuntu Touch
+* Retainer
+** Sofia Rojo
+** Alvaro houson
+** Billy Robbins
+** Peter Raspe
+** Alex Chou
+** Thomas Yang
+** Kathleen Warren
+** Alex Wilton
+** Liam Dugan
+** Douglass otstott
+** Wayne Ma
+** Ritchie seabreaze
+** Alice Haber
+** Alex Lu
+** Connor Maples
+** Sarah Frail
+** Josh wrobel
+** Connor O'Brian
+* Books
+** The Great Leveler by Walter Shidell
+** Yakuza - Japan's Criminal Underworld; Kaplan, Dubro
+** Dune - Frank Herbert
+** Kalman Filters by Phil Kim
+** Bill Gates recommendations - https://qz.com/1285629/99-books-recommended-by-bill-gates-from-the-last-6-ck-years/#bg-ten
+** Efficient C++: Performance Programming Techniques by Dov Bulka and David Mayhew
+** 97 Things Every Programmer Should Know
+** Mythical Man Month
+** Elements of Programming
+** The Brain That Changes Itself, Norman Doige
+** Paradise Lost, Milton
+** Faust, Goethe
+** Inferno, Dante
+** Notes from Underground, Dostoevsky
+** Crime and Punishment
+** Gulag Archipelago
+** Ordinary Men, Browning
+* People
+** Ada Lovelace
+** Douglas Englebart
+** Alan Kay
+** Bret Victor
+** Brandan Eich
+* Papers/Essays
+** The Humble Programmer - Edsger W. Dijkstra
+* Shows
+** Dirk Gently Hollistic detective agency
+** Shin-Godzilla
+** The Devil's a Part Timer
+** Junji Ito Collection
+** Idiot to test the elite
+** Chivalry of a failed knight
+** Ma cross series
+** Gundam seed
+** Jitsu wa watashi wA 
+* Movies
+** Directors
+*** David o Russel
+*** Taika Waititi
+** Moon, Sam Rockwell
+* Games
+** Hell Gate London
+** Furi (on regular monitor)
+* Music
+** André orlov- something new which surprises even ourselves
+** Trout fishing in America
+** Infected mushroom
+** Tokimonsta
+** Riverdale cast, I feel love
+** Kraftwerk

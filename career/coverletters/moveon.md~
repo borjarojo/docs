@@ -1,0 +1,26 @@
+Most of my experience revolves around building fast and reliable systems using
+C++. I've worked in the safety critical domain of autonomous vehicles as well as
+the performance critical domain of rapid data processing.
+
+All of the projects that I've worked on had some kind of front-end
+interface. I've needed to do front-end work to make the products usable, though
+I have not done much user experience focused work. That has usually been left to
+someone with an expertise in that domain, where I was called on to implement
+their designs.
+
+I'm adept at working in Unix-like environments, be it macOS or a Linux
+distribution. I prefer to use command-line programs and use Emacs as my main
+text-editor. I began learning on IDEs, so if the workflow between developers is
+based on an IDE, then that's just as good, too. I haven't worked too much in the
+Windows environment as a development platform, though I am definitely willing to
+put the time into learning it.
+
+I enjoy using test-driven development as a technique for facilitating stability
+in a platform.
+
+I'm particularly interestied in using the Rust programming language because its
+tool-chain is incredibly modern and is built around the idea of safety-first
+code while retaining high performance. It has built-in git support, test
+framework paradigms, and is also very WebAssembly friendly, which I believe will
+become the standard web target going forward due to its platform agnostic nature
+and increased performance over JavaScript.
