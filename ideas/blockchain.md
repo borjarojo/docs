@@ -10,6 +10,12 @@ A crypto-exchange as a new form of bank is a thought that should be further expl
 
 ## Unsorted Concepts
 
+### IoT scanner of recycling and trash for tracking waste
+
+This might be a cool use case for blockchain to begin to hold everyone accountable dynamically for their waste production. One of the best ways to get a community to do something that is good for them is to incentivize the government to do it against their wishes (like forcing people to recycle). If trashcans can be smart-ified, then we can begin to hold people accountable.
+
+If a person is a good recycler, or put in effort to make less waste, and that costs the town less money, then it would be good if that could be monitored.
+
 ### Using block chain to leverage publish-subscriber to increase efficiency over observer
 
 Usually, many APIs use the paradigm of observer, where a client pings a server to be able to get the information they want. This is good for servers because they execute on request and don't need to do calculations about when send a message themselves. Doing those calculations can be costly, so servers wouldn't normally want to do them.

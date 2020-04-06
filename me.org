@@ -190,6 +190,7 @@
 ** Josh wrobel
 ** Connor O'Brian
 * Books
+** Characteristics of Games - Elias, Garfield, Gutschera
 ** The Great Leveler by Walter Shidell
 ** Yakuza - Japan's Criminal Underworld; Kaplan, Dubro
 ** Dune - Frank Herbert
