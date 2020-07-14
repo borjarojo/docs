@@ -40,51 +40,7 @@
 ****** Half marathon at speed
 ****** swimming
 ***** Stand up working
-***** MinMax Sleep
 ***** Flexibility
-**** Mental
-***** Dominate lack of motivation
-***** Increase the ability to work on other projects
-***** Increase focus during all work hours
-***** Get projects done
-***** figuring smaller project to get done, too, or segmenting project to make them easier to do
-***** Find a therapist, maybe? You don't seem to be making a ton of progress on your self-improvement lately, or at least are falling into bad old habits.
-**** Emotional
-***** Get in touch with yourself I guess. You've done a lot of reflection and reaction but take some time to try and feel deeper reasons for everything.
-*** Others
-**** Family
-***** Reconnect with Fran. It's getting close to a decade since you were close.
-***** Build relationship more with Vicky. You've done some stuff to support her but she doesn't really come to you in general for regular shit. She might not want to bother us, but the fact that she thinks it would  be a bother is the crux of the problem.
-**** S.O.
-**** Friends
-**** Work
-*** World
-**** Communities of interests
-** Make a plan
-*** Physical
-**** Look up science on muscle building.
-***** What is good muscles building? What does might that look like for a certain individual and what might that look like for me?
-***** How you get it to grow
-***** if there are intermediary states
-***** How recovery works
-***** What happens if you stop working out
-***** What happens if you change your work out routine
-***** What is the nutrition you need
-***** What are the different types of movements, holds, intensity, explosiveness, etc and the effects that each have. Think about what happens when you mix them
-***** What are the effects of muscles building when you are older? Is there a sweet spot that wants to be hit?
-**** Cardio
-***** What is good cardio?
-***** How much cardio do you want?
-** Transfer relevant google keep ideas here to organize and make a plan
-   The important thing about this is compile what you've collected. You've been
-   diligent about keeping ideas that you've thought about, but you haven't
-   really executed on any of them. 
-   There is something to be said about a side effect this has had. Maybe this
-   kind of diligence has sort of led you to feel like you're on your way to
-   getting stuff done. It's a first step, sure, but not close to even getting
-   past the conclusions a goal being acheived.
-* Org Mode stuff to learn
-** Check to see if there is a way to set up reseting todo lists. This way you can set up habitual todo stuff that you can refer to and check when/ if they need to get done. Laundry is an example of one such thing.
 * Projects
 ** Dating app
 ** Modernization of healthcare industry
@@ -143,7 +99,6 @@
 *** Advanced data structures
 *** Networking
 *** Operating systems
-** Epidemiology
 ** Languages & Culture
    Listenng
    Reading
@@ -152,12 +107,8 @@
 *** Spanish
 *** Japansese
 ** Technology
-*** Markdown, as in .md file types
 *** CMake
-*** Git
-*** Bash Scripting
 *** CLang toolchain
-*** IFTTTT
 *** Blockhain
 *** Blockcerts
 *** Hyperledger

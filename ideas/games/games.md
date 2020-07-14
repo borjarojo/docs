@@ -18,6 +18,11 @@ I mentioned that the boss was a researcher. Maybe this system requires research 
 
 This research idea even feels a little bit like a hard magic system, but I think that the implicit unknown gives it the feel of a soft magic system.
 
+### In-Game Routines
+
+I personally find crafting, cooking, and the rest very tedious in games. They are mechanics that I think are pretty cool as an idea, and when thinking about gave developement, I find that I also gravitate toward creating crafting systems. I do so because I think that they are cool way to reward players by allowing them to gain advantage due to inginuity. It can be a pretty goood feeling to know that a tight spot was overcome due to previous preparation. That being said, I personally don't engage in crafting systems because they are too annoying to deal with engaging in over and over again. Especially in the situation where a game gives quick save points, or a specific section of the game is played over again, it's annoying to manually set up before engaging in game play.
+
+In-game routines is the idea to allow for a player to define what kind of stuff they want to craft for an instance and to be able to do a full crafting set automatically. This way, a player doesn't need to go through the same steps as it took them in discovering what kit they want to craft as just crafting it over again a second time. This would allow a player to easily replay an area to their liking, or even insentivise them to come up with different strategies for an area by setting up differently.
 
 ### Fast Travel
 

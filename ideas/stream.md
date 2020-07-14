@@ -156,6 +156,10 @@ Providing content outside of the stream creates a consumer whose mind is on your
 
 ### Misc
 
+#### Download streams
+
+Basically just talking while watching a something download as the focus content.
+
 #### Literal Contraries
 
 Taking something that is advertised to be something and checking to see if it is actually the case.
