@@ -51,6 +51,22 @@ Something that could be cool for a small brand with a big following is to capita
 
 A type of merchandise taht could be cool is custom version of iconic items. For example, if would be pretty cool to make a custom branded Gameboy SP shell and sell it one or many modded with it. What could be cooler is to link that with something that you've created, so a playthrough for a GBA game then followed by a release of a custom SP would be pretty hype. Linking custom merchandise like that with iconic memories of your brand, like a souvenier from an event, could be pretty sick.
 
+### Clothing line
+
+Not sure where the audience might come from if it's really just a community thing, but these ideas could apply in many ways.
+
+Beta-order
+
+Preorder exclusivity along with using the preorder to gauge interest. If a new product is coming out, a type a beta can be done in order to gauge interest. Further detail can be aquiered by forcing users to fill out a server before the preorder. You can see what aspect of a product most intrigued people; price, design, community, exclusivity, etc. Then, for the pre-order, you can change something small that marks the facts that it was preorder and make that batch limited edition. For example, on a hoodie, you could change the color of the eyelets of the hood draws to some different color.
+
+Shinys.
+
+In an order, you can make a separate order with different color scheme of the same design in very limited quantities.
+
+Clothing dispenser
+
+Shop that is run very low maintenance, almost like a vending machine. Pick an item and it's comes out of a slot. Chance to get a shiny in-store this way.
+
 ### Open Data Market
 
 Market place to be able to list your data for sale, which can be automatically
