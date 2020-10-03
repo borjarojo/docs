@@ -67,6 +67,11 @@ Clothing dispenser
 
 Shop that is run very low maintenance, almost like a vending machine. Pick an item and it's comes out of a slot. Chance to get a shiny in-store this way.
 
+#### Examples
+
+	- A set of graphics that are geometric designs of typical legendary pokemon. I'm imagining a Ho-Oh design with lots of shard-like peices, almost like a stained glass window or mosaic, in bright colors against a white t-shirt
+	- A shirt of Shinji Ikari in his Eva suit with the lyrics for "Boy, Become Legend" on it over a black background
+	- A crossoveer series of designs with members of the company replacing characters in something with pop culture. I.E. a star wars movie poster-esque design with people swapped; King of the Hill gang of four with people swapped.
 ### Open Data Market
 
 Market place to be able to list your data for sale, which can be automatically

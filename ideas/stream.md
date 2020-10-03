@@ -179,3 +179,12 @@ Another way to phrase this kind of headline would be as a conspiracy theory. "Is
 [Website to buy cool Limited edition retro consoles](https://www.sendico.com/register)
 
 [iPod Classic](https://www.youtube.com/watch?v=6bhOyLF4Co4)
+
+### Segments
+
+#### You Snooze, You Lose!
+
+It's an all-nighter type challenge where you stay up as long as you can with some other people, and the last one who stay up wins. You can make it interesting in some ways, maybe.
+
+	- The person who stays up longest gets paid a dollar for every minute they are awake by the other two people.
+	- If it's a charity stream, then you can match for donos. You could also force the people who fell asleep first to pay more to charity themselves, i.e. a dollar for every minute they were asleep while the winner stayed awake.

@@ -299,101 +299,26 @@ Because units are fractal based, there should therefore be a way to combine the 
 
 ### Education
 
-I personally suck at writing. It's actually horrible. This is directly due to
-the fact that I didn't take English seriously during my childhood. I think this
-has to do more with the way that I was taught then with the subject matter
-itself. I find now that I'm older, I explore language way more and find it way
-more engaging than I ever had when I was younger.
+I personally suck at writing. It's actually horrible. This is directly due to the fact that I didn't take English seriously during my childhood. I think this has to do more with the way that I was taught then with the subject matter itself. I find now that I'm older, I explore language way more and find it way more engaging than I ever had when I was younger.  I don't believe this is due to my teachers themselves, but rather due to the curriculum that they are required to teach. They all had different styles of teaching which expect different things from me, all of which were pretty solid (upon reflection, I didn't think this way at the time). The issue for me was actually a matter of what was expected to be learned and the criteria that was used to measure this. In these kind of courses, each teacher is required to have the students about specific properties and lessons through a text. I did notice, though, that my teachers would try to have their students learn more skills tangentially that were not necessarily part of the core curriculum. I believe that this is the kind of material that my teachers were truly passionate about because they would need to plan their lessons and work accordingly to achieve both.
 
-I don't believe this is due to my teachers themselves, but rather due to the
-curriculum that they are required to teach. They all had different styles of
-teaching which expect different things from me, all of which were pretty solid
-(upon reflection, I didn't think this way at the time). The issue for me was
-actually a matter of what was expected to be learned and the criteria that was
-used to measure this. In these kind of courses, each teacher is required to have
-the students about specific properties and lessons through a text. I did notice,
-though, that my teachers would try to have their students learn more skills
-tangentially that were not necessarily part of the core curriculum. I believe
-that this is the kind of material that my teachers were truly passionate about
-because they would need to plan their lessons and work accordingly to achieve
-both.
+I'm pretty sure that the tangential lessons were probably more useful than the core lessons.
 
-I'm pretty sure that the tangential lessons were probably more useful than the
-core lessons.
+So with that in mind, I think that there are skills a student can learn in a way that is more agnostic to topic that are incredibly powerful. In fact, learning those skills and practicing them across many subject domains is what makes them useful in the first place. Promoting the application of critical thinking by honing a more general linguistic tool set is the crux of language study. It's what makes it useful.
 
-So with that in mind, I think that there are skills a student can learn in a way
-that is more agnostic to topic that are incredibly powerful. In fact, learning
-those skills and practicing them across many subject domains is what makes them
-useful in the first place. Promoting the application of critical thinking by
-honing a more general linguistic tool set is the crux of language study. It's
-what makes it useful.
+I think that a proper environment for this kind of study can help facilitate this kind of learning better. I think that a game-ification of this kind of stuff could actually be really useful. A lot of games have historically focused on the way to most sustainably keep an audience engaged, though the methods of doing this do not necessarily require any other merit to be commercially successful. If you can keep the audience engaged, then you have a platform to work off of, even if the changes made to a game to make it more commercially viable disrupt engagement. It becomes a trade-off between money and fun to be able to gain the most money for the company. The fun aspect is just a mechanism for the product, just like any other product.  An educational game would not necessarily be the best if it is trying to maximize on its profit. But, naturally, if something is too expensive, even if it is top of the line, there might be a reasonable trade-off between cost and necessity. The cheapest good-enough product is what most people would look for in something utilitarian.  Education, in my opinion, can never be 'too much', but it can indeed be too little. I would therefore try and evaluate a lower bound of efficacy,then measure actual efficacy against cost.
 
-I think that a proper environment for this kind of study can help facilitate
-this kind of learning better. I think that a game-ification of this kind of stuff
-could actually be really useful. A lot of games have historically focused on the
-way to most sustainably keep an audience engaged, though the methods of doing
-this do not necessarily require any other merit to be commercially
-successful. If you can keep the audience engaged, then you have a platform to
-work off of, even if the changes made to a game to make it more commercially
-viable disrupt engagement. It becomes a trade-off between money and fun to be
-able to gain the most money for the company. The fun aspect is just a mechanism
-for the product, just like any other product.
+Apart from the practically of making this commercially viable, there must be a focus on the practical skill sets that can be developed. For example, many skills can be developed though each might require a different technique to develop them. They each would probably even benefit from a difference in learning v.s. evaluating.  For example, reading comprehension, in my experience, was normally evaluated using multiple choice questions after reading a passage during standardized testing, but was consistently tested with reflective composition during homeworkassignments. I think that the homework assignments would then also mix inother skill sets at the same time, such as research and argument building, butreading comprehension is implicitly built in as it was required in order to correctly achieve the other skills.
 
-An educational game would not necessarily be the best if it is trying to
-maximize on its profit. But, naturally, if something is too expensive, even if
-it is top of the line, there might be a reasonable trade-off between cost and
-necessity. The cheapest good-enough product is what most people would look for
-in something utilitarian.
+This kind of game would most likely be less typical (drastically less) to what you might expect for most games. The idea of a game would come into play with designing a proper reward system and allowing for users to make their own decisions on what to do. This is important as a tool, as allowing someone to explore their own interests is motivating. If someone wants to create their own subject to explore, and do a project on it, then they will most likely be willing to execute. The constraints on this do not need to be very much at all. That being said, the education needs to arise from somewhere, and someone could just as easily waste their own time on a subject by not building skill sets.
 
-Education, in my opinion, can never be 'too much', but it can indeed be too
-little. I would therefore try and evaluate a lower bound of efficacy, then
-measure actual efficacy against cost.
+Conventional teaching has some of this, but lacks other points. The key issue with my idea might be the actual evaluation of what a student produces. If they are able to write about anything that they want, then the teacher would only be able to evaluate accordingly. This doesn't scale well, as teacher would need to be a subject expert on everything in order to be able to catch anything that a student wishes to explore. This can be solved, though, in the same way that is already done conventionally. If a student wants to learn about something, then a teacher needs to be available to evaluate and correct them. That being said, it does not mean that one teacher or one specific set of teachers needs to belocked for a student. Normally, a class would be assigned to a teacher for theduration of a year or semester, and each student would be locked into that class. If a student had, instead, access to a large array of teachers that each specialize in a subject, then their exploratory breath would increase and retain the depth that each teacher normally holds. What could be cool, then, is for a teacher to then come up with assignments particular to their subject domain that help address topics and skill sets that a student is required to learn. Because general skill sets need to span across many topics, students could work towards mastering them while retaining freedom of interest.
 
-Apart from the practically of making this commercially viable, there must be a
-focus on the practical skill sets that can be developed. For example, many skills
-can be developed though each might require a different technique to develop
-them. They each would probably even benefit from a difference in learning
-v.s. evaluating.
+This is a really powerful motivator. There could still, indeed, be requirements for particular topical knowledge, but the requirements may be allowed to be softened if general skill sets can still be achieved because learning particular skill sets may no longer be tied to a specific section of knowledge. 
 
-For example, reading comprehension, in my experience, was normally evaluated
-using multiple choice questions after reading a passage during standardized
-testing, but was consistently tested with reflective composition during homework
-assignments. I think that the homework assignments would then also mix in
-other skill sets at the same time, such as research and argument building, but
-reading comprehension is implicitly built in as it was required in order to
-correctly achieve the other skills.
+### World Building
 
-This kind of game would most likely be less typical (drastically less) to what
-you might expect for most games. The idea of a game would come into play with
-designing a proper reward system and allowing for users to make their own
-decisions on what to do. This is important as a tool, as allowing someone to
-explore their own interests is motivating. If someone wants to create their own
-subject to explore, and do a project on it, then they will most likely be
-willing to execute. The constraints on this do not need to be very much at
-all. That being said, the education needs to arise from somewhere, and someone
-could just as easily waste their own time on a subject by not building skill
-sets.
+#### Map Making
 
-Conventional teaching has some of this, but lacks other points. The key issue
-with my idea might be the actual evaluation of what a student produces. If they
-are able to write about anything that they want, then the teacher would only be
-able to evaluate accordingly. This doesn't scale well, as teacher would need to
-be a subject expert on everything in order to be able to catch anything that a
-student wishes to explore. This can be solved, though, in the same way that is
-already done conventionally. If a student wants to learn about something, then a
-teacher needs to be available to evaluate and correct them. That being said, it
-does not mean that one teacher or one specific set of teachers needs to be
-locked for a student. Normally, a class would be assigned to a teacher for the
-duration of a year or semester, and each student would be locked into that
-class. If a student had, instead, access to a large array of teachers that each
-specialize in a subject, then their exploratory breath would increase and retain
-the depth that each teacher normally holds. What could be cool, then, is for a
-teacher to then come up with assignments particular to their subject domain that
-help address topics and skill sets that a student is required to learn. Because
-general skill sets need to span across many topics, students could work towards
-mastering them while retaining freedom of interest.
-
-This is a really powerful motivator. There could still, indeed, be requirements
-for particular topical knowledge, but the requirements may be allowed to be
-softened if general skill sets can still be achieved because learning particular
-skill sets may no longer be tied to a specific section of knowledge.
+	- [10 Rules for Believable Fantasy Maps](https://www.youtube.com/watch?v=17NU-io9dmA)
+	- [A Map that Breaks All the Rules (Fantasy Mapmaking)(https://www.youtube.com/watch?v=z__gw0flKHM)
+	- [A Magical Society: Guide to Mapping](https://www.drivethrurpg.com/product/55266/A-Magical-Society-Guide-to-Mapping?affiliate_id=656654)
